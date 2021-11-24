@@ -7,13 +7,13 @@
   "author": "Aaron Jonk <AJ@jonk.name>",
   "license": "MIT",
   "scripts": {
-    "start": "node ./src/help-me.js",
+    "start": "node ./help-me/index.js",
     "test": "node ./test/index.js"
   },
   "keywords": ["code help", "stackoverflow", "error handle"],
   "bugs": {
     "url": "https://github.com/Hattorius/help-me/issues"
   },
-  "homepage": "https://github.com/Hattorius/help-me",
+  "homepage": "https://github.com/Hattorius/help-me#README",
   "type": "module"
 }
