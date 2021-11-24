@@ -1,4 +1,4 @@
-# help-me
+# plshelp
 Help me is a javascript module that directly searches Stackoverflow for answers when you get an error. WITH TYPESCRIPT SUPPORT..
 
 ### What does it do?
@@ -12,13 +12,13 @@ It shows the 5 most relevant questions to your error, Code with ease.
 Yarn
 
 ```shell
-yarn add -D https://github.com/Hattorius/help-me.git
+yarn add -D https://github.com/Hattorius/plshelp.git
 ```
 
 NPM
 
 ```shell
-npm install --save-dev https://github.com/Hattorius/help-me.git
+npm install --save-dev https://github.com/Hattorius/plshelp.git
 ```
 
 ### Usage
@@ -26,9 +26,9 @@ npm install --save-dev https://github.com/Hattorius/help-me.git
 Include the package to your code, and it'll start listening for uncaught exceptions:
 
 ```js
-import "help-me";
+import "plshelp";
 // OR
-require("help-me")
+require("plshelp")
 ```
 
 Nothing else is needed!
