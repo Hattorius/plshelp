@@ -1,4 +1,4 @@
 
-import '../src/help-me.js';
+import './index.js';
 
 throw new Error('sadness');
