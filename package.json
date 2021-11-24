@@ -1,0 +1,19 @@
+{
+  "name": "help-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Searches on Stackoverflow for answers when your program has errors.",
+  "repository": "git@github.com:Hattorius/help-me.git",
+  "author": "Aaron Jonk <AJ@jonk.name>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/help-me.js",
+    "test": "node ./test/index.js"
+  },
+  "keywords": ["code help", "stackoverflow", "error handle"],
+  "bugs": {
+    "url": "https://github.com/Hattorius/help-me/issues"
+  },
+  "homepage": "https://github.com/Hattorius/help-me",
+  "type": "module"
+}
