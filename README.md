@@ -40,3 +40,9 @@ The Stackoverflow API let's you make 300 requests a day, if you get over that yo
 
 I created this module after seeing the following meme on Reddit:
 ![meme](https://i.imgur.com/eU1aY8e.png)
+
+
+
+
+
+<small>Made by me: https://xlogic.sh/</small>
