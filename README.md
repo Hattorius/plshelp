@@ -3,7 +3,7 @@ Help me is a node/typescript module that directly searches Stackoverflow for ans
 
 ### What does it do?
 
-![Example output](https://i.imgur.com/xBKHjr9.gif)
+![Example output](https://i.imgur.com/yc6Nc3T.gif)
 
 It shows the 5 most relevant questions to your error, Code with ease.
 
