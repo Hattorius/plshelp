@@ -1,6 +1,6 @@
 {
   "name": "plshelp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exports": {
     "node": "./index.js"
   },
@@ -40,6 +40,6 @@
     "typescript": "^4.4.4"
   },
   "contributors": [
-    "Aaron Jonk <AJ@jonk.name> (https://xlogic.sh)" 
+    "Aaron Jonk <AJ@jonk.name> (https://xlogic.sh)"
   ]
 }
