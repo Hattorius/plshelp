@@ -12,7 +12,7 @@ It shows the 5 most relevant questions to your error, Code with ease.
 Yarn
 
 ```shell
-yarn add -D https://github.com/Hattorius/plshelp.git
+yarn add -D plshelp
 ```
 
 NPM
