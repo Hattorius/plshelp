@@ -34,4 +34,4 @@ require("help-me")
 Nothing else is needed!
 <small>If you come across any bugs, please create an issue</small>
 
-The Stackoverflow API let's you make 300 requests a day
+The Stackoverflow API let's you make 300 requests a day, if you get over that you're a ficking beast.
