@@ -1,5 +1,5 @@
 # plshelp
-Help me is a javascript module that directly searches Stackoverflow for answers when you get an error. WITH TYPESCRIPT SUPPORT..
+Plshelp is a javascript module that directly searches Stackoverflow for answers when you get an error. WITH TYPESCRIPT SUPPORT..
 
 ### What does it do?
 
