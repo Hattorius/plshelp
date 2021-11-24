@@ -1,5 +1,5 @@
-import https from "https";
-import zlib from "zlib";
+const https = require("https");
+const zlib = require("zlib");
 
 const red = "\x1b[31m";
 const res = "\x1b[0m";
