@@ -18,7 +18,7 @@ yarn add -D https://github.com/Hattorius/plshelp.git
 NPM
 
 ```shell
-npm install --save-dev https://github.com/Hattorius/plshelp.git
+npm install --save-dev plshelp
 ```
 
 ### Usage

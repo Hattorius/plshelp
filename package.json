@@ -1,5 +1,5 @@
 {
-  "name": "help-me",
+  "name": "plshelp",
   "version": "1.0.0",
   "exports": {
     "node": "./index.js"
@@ -11,7 +11,7 @@
   "main": "./index.js",
   "types": "./index.d.ts",
   "description": "Searches on Stackoverflow for answers when your program has errors.",
-  "repository": "git@github.com:Hattorius/help-me.git",
+  "repository": "git@github.com:Hattorius/plshelp.git",
   "author": "Aaron Jonk <AJ@jonk.name>",
   "license": "MIT",
   "scripts": {
@@ -27,14 +27,19 @@
   "keywords": [
     "code help",
     "stackoverflow",
-    "error handle"
+    "error handle",
+    "pls help",
+    "code error"
   ],
   "bugs": {
-    "url": "https://github.com/Hattorius/help-me/issues"
+    "url": "https://github.com/Hattorius/plshelp/issues"
   },
-  "homepage": "https://github.com/Hattorius/help-me#README",
+  "homepage": "https://github.com/Hattorius/plshelp#plshelp",
   "devDependencies": {
     "tsd": "^0.19.0",
     "typescript": "^4.4.4"
-  }
+  },
+  "contributors": [
+    "Aaron Jonk <AJ@jonk.name> (https://xlogic.sh)" 
+  ]
 }
