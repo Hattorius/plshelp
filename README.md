@@ -5,7 +5,7 @@ Plshelp is a javascript module that directly searches Stackoverflow for answers 
 
 ![Example output](https://i.imgur.com/yc6Nc3T.gif)
 
-It shows the 5 most relevant questions to your error, Code with ease.
+It shows the 5 most relevant questions to your error, code with ease.
 
 ### Installation
 
